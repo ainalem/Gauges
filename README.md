@@ -1,5 +1,7 @@
 React Native SVG animated paths. Inspired by this dribbble shot: https://dribbble.com/shots/17162175-Done-on-Appstore
 
+![hero.gif](./hero.gif)
+
 # To run
 
 ```bash

@@ -16,7 +16,7 @@ const App = () => {
         <Text style={styles.title}>
           React Native{' '}
           <Text style={[styles.title, styles.titleLight]}>
-            - Animated SVG path
+            - Animated SVG Gauges (arcs)
           </Text>
         </Text>
 

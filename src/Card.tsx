@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import Gauge from './Gague';
+import Gauge from './Gauge';
 
 type Props = {
   value: number;
